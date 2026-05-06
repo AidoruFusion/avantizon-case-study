@@ -94,4 +94,4 @@ Avantizon gained investment and reached a valuation of £1.6 million. My contrib
 
 **Nuel Ndubuka**  
 Co-founder / CTO – Avantizon  
-GitHub: [AidourFusion](https://github.com/AidoruFusion)
+GitHub: [AidoruFusion](https://github.com/AidoruFusion)
